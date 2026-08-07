@@ -24,8 +24,8 @@
 
 ## 查看报告
 
-- [Markdown 版](SK_Hynix_HBM_Cycle_King_Value_Diagnosis-Simplified_Version-ZH.md)
-- [PDF 版](SK_Hynix_HBM_Cycle_King_Value_Diagnosis-Simplified_Version-ZH.pdf)
+- [Markdown 版](SK_Hynix_HBM_Cycle_Performance_Value_Diagnosis-Simplified_Version-ZH.md)
+- [PDF 版](SK_Hynix_HBM_Cycle_Performance_Value_Diagnosis-Simplified_Version-ZH.pdf)
 
 ## 版权声明
 
