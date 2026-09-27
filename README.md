@@ -31,4 +31,4 @@
 
 本作品采用 [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) 进行许可。
 
-© 2026 王子文 (Adrian Wang). 仅供学习和研究用途，禁止商业使用。
+© 2026 WANG ZIWEN (Adrian). 仅供学习和研究用途，禁止商业使用。
